@@ -19,6 +19,7 @@ img {
     justify-content: center;
     align-items: center;
     grid-template-columns: repeat(auto-fit, minmax(200px,200px));
+    overflow: hidden;
 }
 @media (max-width: 1000px) {
     .images {
